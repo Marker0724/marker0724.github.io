@@ -1,7 +1,7 @@
 # Site
 title:              Marker0724
-bio:                'asdf'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Computer & Music'
+description:        "Marker's blog"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,13 +38,13 @@ disqus_shortname: Marker0724
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+#twitter:            username
 facebook:           Marker.0724
-github-url:         username
+github-url:         marker0724
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          min_teak_1010
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
